@@ -24,76 +24,9 @@
 
 .inicio {
     background-color: #0feedb;
-    
-    
 }
-
-.imagen-principal {
-    display: flex;
+.card {
     justify-content: center;
-    
-}
-
-.imagenes{
-    height: 500px;
-    display: flex;
-}
-.imag1{
-    display: flex;
-    justify-content: center;
-    position: absolute;
-    left: 200px;
-    top: 975px;
-}
-.imagen-cuerpo{
-    background-color: #ecd7be;
-    border-radius: 10px;
-    border: 3px solid #0a0a0a;
-    width: 300px;
-}
-
-.parrafo-1{
-    width: 300px;
-    position: relative;
-    top: 330px;
-    left: -300px;
-}
-
-.imagen-mente{
-    background-color: #ecd7be;
-    width: 270px;
-    border-radius: 10px;
-    border: 3px solid #0a0a0a;
-     
-}
-.parrafo-2{
-    width: 300px;
-    position: relative;
-    top: 330px;
-    left: -280px;
-    
-}
-
-.imagen-mente img{
-    width: 230px;
-    height: 250px;
-}
-.imagen-alma{
-    background-color: #ecd7be;
-    width: 270px;
-    border-radius: 10px;
-    border: 3px solid #0a0a0a;
-    
-}
-.imagen-alma img{
-    width: 150x;
-    height: 150px;
-}
-.parrafo-3{
-    width: 300px;
-    position: relative;
-    top: 330px;
-    left: -260px;
 }
 .pie-de-pagina{
     background-color: #0feedb;
