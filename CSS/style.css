@@ -25,9 +25,6 @@
 .inicio {
     background-color: #0feedb;
 }
-.card {
-    justify-content: center;
-}
 .pie-de-pagina{
     background-color: #0feedb;
    
@@ -53,96 +50,4 @@
     display: flex;
     justify-content: center;
 }
-.main-nosotros article{
-    display: flex;
-    justify-content: center;
-}
-.imagen-nosotros1 {
-    width: 300px;
-    height: 300px;
-    position: relative;
-    top: 100px;
-    left: -50px;
-   
-}
-.imagen-nosotros2 {
-    width: 300px;
-    height: 300px;
-   
-    position: relative;
-    top: 450px;
-    left: -450px;
-}
-.parrafo-nosotros1{
-    width: 500px;
-    position: relative;
-    top: 170px;
-    font-size: large;
-}
-.parrafo-nosotros2{
-    width: 500px;
-    position: relative;
-    top: 550px;
-    left: -400px;
-    font-size: large;
-}
-.imegenesservicios{
-    display: flex;
-    justify-content: center;
-    height: 600px;
-}
-.imagenservicio1{
-    width: 350px;
-    height: 300px;
-    position: relative;
-    left: 100px;
 
-}
-.parrafoservicios1{
-    position: relative;
-    top: 300px;
-    left: -230px;
-    width: 2500px;
-    justify-content:center;
-}
-.imagenservicio2{
-    width: 350px;
-    height: 300px;
-    position: relative;
-    top: 300px;
-    left: 100px;
-}
-.parrafoservicios2{
-    position: relative;
-    top: 115px;
-    left: -225px;
-    width: 2500px;
-    justify-content:center;
-}
-
-.imagenservicio3{
-    width: 350px;
-    height: 300px;
-    position: relative;
-    left: 100px;
-}
-.parrafoservicio3{
-    position: relative;
-    top: 300px;
-    left: -215px;
-    width: 2500px;
-    justify-content:center;
-}
-.contacto{
-    display: block;
-    justify-content: left;
-}
-.contacto h4{
-    width: 400px;
-}
-.formulario{
-    display: flex;
-    justify-content:right;
-    position: relative;
-    right: 100px;
-}
